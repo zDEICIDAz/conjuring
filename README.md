@@ -1,7 +1,5 @@
 # ConjurinG
 
-![ConjurinG](https://assets.catawiki.nl/assets/2019/8/23/7/2/3/723f4c35-92a2-4924-8d9b-947d8ad8c7ee.jpg)
-
 Bem-vindo ao repositório do ConjurinG!
 
 ## Sobre o Projeto
