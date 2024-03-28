@@ -1,0 +1,6 @@
+@conjuring_HostAddress = http://localhost:5013
+
+GET {{conjuring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

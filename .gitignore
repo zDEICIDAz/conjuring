@@ -1,0 +1,26 @@
+# Ignorar arquivos de compilação C#
+back/bin/
+back/obj/
+back/.vscode/
+back/.vs/
+back/*.dll
+back/*.log
+back/*.bin
+back/*.config
+back/appsettings.json
+back/appsettings.Development.json
+back/build/
+back/Migrations/
+back/logs/
+back/temp/
+back/Properties/
+
+# Ignorar arquivos de compilação Front
+front/.next/
+front/node_modules/
+
+# Outros arquivos/diretórios a serem ignorados
+back/Thumbs.db
+back/.DS_Store
+front/Thumbs.db
+front/.DS_Store
